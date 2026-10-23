@@ -9,7 +9,7 @@ namespace CollegeManagment
     internal static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// Aryan Wazir & Andres Rivero
         /// </summary>
         [STAThread]
         static void Main()
