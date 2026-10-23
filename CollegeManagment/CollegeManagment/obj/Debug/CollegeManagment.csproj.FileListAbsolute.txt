@@ -1,0 +1,9 @@
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\bin\Debug\CollegeManagment.exe.config
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\bin\Debug\CollegeManagment.exe
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\bin\Debug\CollegeManagment.pdb
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\obj\Debug\CollegeManagment.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\obj\Debug\CollegeManagment.Properties.Resources.resources
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\obj\Debug\CollegeManagment.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\obj\Debug\CollegeManagment.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\obj\Debug\CollegeManagment.exe
+C:\Users\andre\Desktop\midternPrep\CollegeManagment\CollegeManagment\CollegeManagment\obj\Debug\CollegeManagment.pdb
