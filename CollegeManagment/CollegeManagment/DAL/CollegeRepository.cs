@@ -244,7 +244,7 @@ namespace CollegeManagment.DAL
         public List<ApplicantsWebinarsItem> APWEBGetAll()
         {
             SqlConnection conn = new SqlConnection(_connectionString);
-            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM dbo.ApplicantsWebinars", conn);
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM dbo.ApplicantWebinars", conn);
 
             DataTable dt = new DataTable();
             adapter.Fill(dt);
