@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|c:\\users\\andre\\desktop\\midternprep\\collegemanagment\\collegemanagment\\collegemanagment\\dal\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\dal\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|c:\\users\\andre\\desktop\\midternprep\\collegemanagment\\collegemanagment\\collegemanagment\\model\\applicantswebinarsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\model\\applicantswebinarsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\model\\webinarsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\model\\webinarsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\dal\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\dal\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\model\\aplicantsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\model\\aplicantsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\model\\applicantswebinarsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\model\\applicantswebinarsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\dal\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\dal\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\dal\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\dal\\icollegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\collegemanagment\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ApplicantsWebinarsItem.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\ApplicantsWebinarsItem.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\Model\\ApplicantsWebinarsItem.cs",
@@ -66,7 +66,8 @@
               "RelativeToolTip": "CollegeManagment\\Model\\ApplicantsWebinarsItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T14:04:49.879Z"
+              "WhenOpened": "2026-10-23T14:04:49.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,44 +77,43 @@
               "RelativeDocumentMoniker": "CollegeManagment\\Model\\WebinarsItem.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\WebinarsItem.cs",
               "RelativeToolTip": "CollegeManagment\\Model\\WebinarsItem.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T14:04:30.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AplicantsItem.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\AplicantsItem.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\Model\\AplicantsItem.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\AplicantsItem.cs",
               "RelativeToolTip": "CollegeManagment\\Model\\AplicantsItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T14:02:40.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CollegeRepository.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\CollegeRepository.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\DAL\\CollegeRepository.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\CollegeRepository.cs",
               "RelativeToolTip": "CollegeManagment\\DAL\\CollegeRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwF8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAqwOEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T13:57:36.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T13:57:36.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ICollegeRepository.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\ICollegeRepository.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\DAL\\ICollegeRepository.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\ICollegeRepository.cs",
               "RelativeToolTip": "CollegeManagment\\DAL\\ICollegeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T13:57:07.476Z"
             },
