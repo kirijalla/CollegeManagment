@@ -25,7 +25,7 @@ namespace CollegeManagment.DAL
         WebinarsItem WEBGetById(string id);
         void WEBAdd(WebinarsItem item);
         void WEBUpdate(WebinarsItem item);
-        void WEBDelete(int id);
+        void WEBDelete(string id);
 
         // APLICANTWEBINARS
         void APWEBAdd(ApplicantsWebinarsItem item);

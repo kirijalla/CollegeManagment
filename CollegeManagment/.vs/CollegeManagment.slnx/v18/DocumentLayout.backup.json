@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|c:\\users\\andre\\desktop\\midternprep\\collegemanagment\\collegemanagment\\collegemanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|c:\\users\\andre\\desktop\\midternprep\\collegemanagment\\collegemanagment\\collegemanagment\\dal\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF341CDC-40C9-48F8-8F75-988CB3E1D708}|CollegeManagment\\CollegeManagment.csproj|solutionrelative:collegemanagment\\dal\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,24 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Program.cs",
-              "RelativeDocumentMoniker": "CollegeManagment\\Program.cs",
-              "ToolTip": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Program.cs",
-              "RelativeToolTip": "CollegeManagment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T14:48:59.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\App.config",
               "RelativeDocumentMoniker": "CollegeManagment\\App.config",
@@ -75,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ApplicantsWebinarsItem.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\ApplicantsWebinarsItem.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\Model\\ApplicantsWebinarsItem.cs",
@@ -87,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WebinarsItem.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\WebinarsItem.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\Model\\WebinarsItem.cs",
@@ -99,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AplicantsItem.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\Model\\AplicantsItem.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\Model\\AplicantsItem.cs",
@@ -111,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CollegeRepository.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\CollegeRepository.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\DAL\\CollegeRepository.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\CollegeRepository.cs",
               "RelativeToolTip": "CollegeManagment\\DAL\\CollegeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwF8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T13:57:36.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ICollegeRepository.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\DAL\\ICollegeRepository.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\DAL\\ICollegeRepository.cs",
@@ -136,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\UI\\Form1.cs",
@@ -148,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\midternPrep\\CollegeManagment\\CollegeManagment\\CollegeManagment\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "CollegeManagment\\UI\\Form1.cs",
