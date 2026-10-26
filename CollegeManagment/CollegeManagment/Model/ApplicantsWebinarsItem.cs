@@ -8,7 +8,7 @@ namespace CollegeManagment.Model
 {
     public class ApplicantsWebinarsItem
     {
-        public int ApplicatId { get; set; }
+        public int ApplicantId { get; set; }
         public string WebinarCode { get; set; }
         public DateTime RegistrationDate { get; set; }
     }
