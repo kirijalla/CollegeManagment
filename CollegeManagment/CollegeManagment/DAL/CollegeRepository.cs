@@ -38,6 +38,16 @@ namespace CollegeManagment.DAL
             return item;
         }
 
+        private ApplicantsWebinarsItem APWEBMapToItem(DataRow row)
+        {
+            ApplicantsWebinarsItem item = new ApplicantsWebinarsItem();
+            item.ApplicantId = Convert.ToInt32(row["ApplicatId"]);
+            item.WebinarCode = row["WebinarCode"].ToString();
+            item.RegistrationDate = Convert.ToDateTime(row["StartingDate"]);
+
+            return item;
+        }
+
         //APPLICANTS
         public void APAdd(AplicantsItem item)
         {
@@ -231,8 +241,23 @@ namespace CollegeManagment.DAL
 
             adapter.Update(dt);
         }
+        public List<ApplicantsWebinarsItem> APWEBGetAll()
+        {
+            SqlConnection conn = new SqlConnection(_connectionString);
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM dbo.ApplicantsWebinars", conn);
 
-        
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+
+            List<ApplicantsWebinarsItem> items = new List<ApplicantsWebinarsItem>();
+            foreach (DataRow row in dt.Rows)
+            {
+                items.Add(APWEBMapToItem(row));
+            }
+            return items;
+        }
+
+
         // WEBINARS
         public void WEBAdd(WebinarsItem item)
         {

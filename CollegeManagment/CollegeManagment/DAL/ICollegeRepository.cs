@@ -29,5 +29,6 @@ namespace CollegeManagment.DAL
 
         // APLICANTWEBINARS
         void APWEBAdd(ApplicantsWebinarsItem item);
+        List<ApplicantsWebinarsItem> APWEBGetAll();
     }
 }
